@@ -1,0 +1,7 @@
+DualEncoder	KEYWORD1
+readInner	KEYWORD2
+readOuter	KEYWORD2
+readSwitch	KEYWORD2
+setDebounce	KEYWORD2
+CW	LITERAL1
+CCW	LITERAL1
